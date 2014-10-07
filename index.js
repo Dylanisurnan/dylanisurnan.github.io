@@ -1,1 +1,1 @@
-alert('My coding brings all the nerds to the yard and their like so so hard');
+alert('My name is Mckay25 and I can't code');
