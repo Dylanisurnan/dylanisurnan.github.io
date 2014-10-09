@@ -1,1 +1,1 @@
-alert('U like my website?');
+alert('Hi max!');
