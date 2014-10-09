@@ -1,1 +1,1 @@
-alert('Hi max!');
+alert(''Hi max!');
